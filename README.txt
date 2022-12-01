@@ -1,0 +1,1 @@
+Paste token in "token.exe", and server id in "guildid".
